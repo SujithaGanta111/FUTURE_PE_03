@@ -1,0 +1,36 @@
+Act as an expert SEO content strategist and blog writer.
+
+Business Type: Beauty Salon  
+Business Name: Glow Beauty Salon  
+Location: Hyderabad  
+
+Task:
+Create SEO-optimized blog content targeting local search keywords.
+
+Requirements:
+- Use H1, H2, H3 headings
+- Include local SEO keywords like "Hyderabad", "near me"
+- Write engaging and user-friendly content
+- Add internal linking suggestions
+- Include strong call-to-action (CTA)
+- Optimize for Google ranking
+
+Generate the following:
+
+1. Pillar Blog:
+   Title: Best Beauty Salon in Hyderabad
+
+2. Supporting Blogs:
+   - Best Hair Spa in Hyderabad
+   - Best Facial Services in Hyderabad
+   - Bridal Makeup in Hyderabad
+   - Beauty Salon Pricing in Hyderabad
+
+3. Keyword Strategy:
+   - Primary keyword
+   - Secondary keywords
+   - Long-tail keywords
+   - SEO content plan
+
+Goal:
+Improve search engine visibility and attract local customers.
